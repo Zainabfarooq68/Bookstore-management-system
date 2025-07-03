@@ -1,0 +1,15 @@
+1,The Alchemist,Paulo Coelho,Fiction,1200,10
+2,Learn C++,Bjarne Stroustrup,Programming,1500,5
+3,Atomic Habits,James Clear,Self-Help,950,15
+4,Harry Potter,J.K. Rowling,Fantasy,1800,30
+5,Introduction to Algorithms,CLRS,Academic,2500,10
+6,The Psychology of Money,Morgan Housel,Finance,1100,10
+7,The Hobbit,J.R.R. Tolkien,Fantasy,1350,8
+8,Rich Dad Poor Dad,Robert Kiyosaki,Finance,999,12
+9,Deep Work,Cal Newport,Self-Help,899,5
+10,Clean Code,Robert C. Martin,Programming,1700,10
+11,Digital Fortress,Dan Brown,Thriller,1200,0
+12,Data Structures in C++,Adam Drozdek,Academic,1900,5
+13,Cracking the Coding Interview,Gayle McDowell,Programming,2200,10
+14,You Can Win,Shiv Khera,Self-Help,750,0
+15,Angels and Demons,Dan Brown,Thriller,1300,60
